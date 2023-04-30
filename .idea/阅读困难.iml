@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/数据处理/pre4/data/1raw_rename" />
+      <excludeFolder url="file://$MODULE_DIR$/数据处理/pre4/data/2raw_bad" />
+      <excludeFolder url="file://$MODULE_DIR$/数据处理/pre4/data/3raw_rereference" />
+      <excludeFolder url="file://$MODULE_DIR$/数据处理/pre4/data/4raw_ica" />
+      <excludeFolder url="file://$MODULE_DIR$/数据处理/pre4/data/5epoch_ASSR" />
+      <excludeFolder url="file://$MODULE_DIR$/数据处理/pre4/data/5epoch_ASSR_long" />
+      <excludeFolder url="file://$MODULE_DIR$/数据处理/pre4/data/5epoch_oddball" />
+      <excludeFolder url="file://$MODULE_DIR$/数据处理/pre4/data/5epoch_RSA" />
+      <excludeFolder url="file://$MODULE_DIR$/数据处理/pre4/data/6epoch_clean_ASSR_long" />
+      <excludeFolder url="file://$MODULE_DIR$/数据处理/pre4/data/7evoked_oddball" />
+      <excludeFolder url="file://$MODULE_DIR$/数据处理/pre1nanshi" />
+      <excludeFolder url="file://$MODULE_DIR$/数据处理/pre2beishi_RSA_ASSR46" />
+      <excludeFolder url="file://$MODULE_DIR$/数据处理/pre3_3个一起做" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.9 (MNE)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
+</module>
