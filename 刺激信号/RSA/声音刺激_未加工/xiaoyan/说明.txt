@@ -1,0 +1,12 @@
+xiaoyan
+
+<speak xmlns="http://www.w3.org/2001/10/synthesis"  version="1.0" xml:lang="zh-CN">
+  <voice name="zh-CN-XiaoyanNeural">
+    <prosody rate="0%" pitch="0%" volume="+500%">
+      <phoneme alphabet="sapi" ph="pa 1"></phoneme>
+    </prosody>
+  </voice>
+</speak>
+
+
+所有音频的平均时长是 205 

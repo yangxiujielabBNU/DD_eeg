@@ -1,0 +1,10 @@
+*.fif
+*.set
+/公开数据库/
+/venv/
+/.osfcli.config
+/数据处理/pre1nanshi/
+/数据处理/pre2beishi_RSA_ASSR46/
+/数据处理/pre3_3个一起做/
+/数据处理/pre4/.idea/
+
