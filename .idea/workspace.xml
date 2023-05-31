@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="768c382c-ac14-4641-8857-9e508e311fc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/RSA/RSA_多被试统计_非DD.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/RSA/models矩阵/model矩阵生成.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/RSA/models矩阵/toneRDM.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/RSA/测试MNE-RSA/plot_nans.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/RSA/测试MNE-RSA/plot_sensor_level.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/RSA/测试MNE-RSA/plot_sensor_level_用pre4RSA数据测试.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/RSA/脑电结果/计算潜伏期和峰值.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/connectivity/Functional_Connectivity2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/connectivity/all2all_channel_connectivity.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/connectivity/草稿/animation.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/connectivity/草稿/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/connectivity/草稿/基础知识.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/connectivity/频域分析/ASSR_FTR_单一被试.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/connectivity/频域分析/ASSR_FTR_单一被试_先平均后频域.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/connectivity/频域分析/ASSR_FTR_多被试.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/connectivity/频域分析/ASSR_FTR_多被试_多SNR连续计算.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/decoding/searchlight/decoding_channelsSearchLight_基于MNE脚本.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/decoding/searchlight/linear_model_patterns.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/preprocessing_ICA_ASSR_crop再muscle.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理/pre4/preprocessing_epoch_RSA_批处理.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据处理/pre4/ASSR/ASSR_FTR_单一被试_先平均后频域.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据处理/pre4/ASSR/ASSR_FTR_单一被试_先平均后频域.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据处理/pre4/RSA/RSA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据处理/pre4/RSA/RSA_单被试.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据处理/pre4/RSA/RSA_多被试统计.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据处理/pre4/RSA/RSA_多被试统计.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据处理/pre4/decoding/decoding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据处理/pre4/decoding/decoding.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据处理/pre4/decoding/decoding_channelsSearchLight_基于MNE脚本.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据处理/pre4/decoding/decoding_边读边decoding.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据处理/pre4/preprocessing_ICA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据处理/pre4/preprocessing_ICA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据处理/pre4/preprocessing_ICA_RSA_crop再muscle.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据处理/pre4/preprocessing_ICA_RSA_crop再muscle.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据处理/pre4/preprocessing_epoch_ASSR.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据处理/pre4/preprocessing_epoch_ASSR.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据处理/pre4/preprocessing_epoch_RSA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据处理/pre4/preprocessing_epoch_RSA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据处理/pre4/preprocessing_oddball_equalization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据处理/pre4/preprocessing_oddball_equalization.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据处理/pre4/preprocessing_rename.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据处理/pre4/preprocessing_rename.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Pd6PMz7Kqtpu0jbOpp9CWtj42R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/实验/阅读困难/数据处理/pre4/RSA/测试MNE-RSA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;E:/实验/阅读困难/数据处理/pre4/RSA/RSA_多被试统计_三个声调.ipynb&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\实验\阅读困难\数据处理\pre4\RSA\测试MNE-RSA" />
+      <recent name="E:\实验\阅读困难\数据处理\pre4" />
+      <recent name="E:\实验\阅读困难\数据处理\pre4\RSA" />
+      <recent name="E:\实验\阅读困难\数据处理\pre4\RSA\models矩阵" />
+      <recent name="E:\实验\阅读困难\数据处理\pre4\decoding\searchlight" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\实验\阅读困难\数据处理\pre4\RSA\models矩阵" />
+      <recent name="E:\实验\阅读困难\数据处理\pre4\decoding\searchlight" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="768c382c-ac14-4641-8857-9e508e311fc3" name="Changes" comment="" />
+      <created>1683774589146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683774589146</updated>
+      <workItem from="1683774593756" duration="1338000" />
+      <workItem from="1683775967498" duration="977000" />
+      <workItem from="1683776969357" duration="8960000" />
+      <workItem from="1683793194331" duration="1015000" />
+      <workItem from="1683794264346" duration="17414000" />
+      <workItem from="1683818195214" duration="197000" />
+      <workItem from="1683818416400" duration="421000" />
+      <workItem from="1683819150074" duration="959000" />
+      <workItem from="1683820142718" duration="4401000" />
+      <workItem from="1683866163578" duration="2026000" />
+      <workItem from="1683874557945" duration="455000" />
+      <workItem from="1683875391141" duration="1578000" />
+      <workItem from="1683877243808" duration="22561000" />
+      <workItem from="1683953396021" duration="1612000" />
+      <workItem from="1683970444959" duration="7238000" />
+      <workItem from="1683986242446" duration="194000" />
+      <workItem from="1683986467929" duration="3092000" />
+      <workItem from="1683991562855" duration="2603000" />
+      <workItem from="1683994695609" duration="494000" />
+      <workItem from="1683995236019" duration="156000" />
+      <workItem from="1683996259743" duration="267000" />
+      <workItem from="1683996680839" duration="117000" />
+      <workItem from="1683996976279" duration="7417000" />
+      <workItem from="1684034679709" duration="1804000" />
+      <workItem from="1684037167317" duration="1496000" />
+      <workItem from="1684038898359" duration="2879000" />
+      <workItem from="1684041884918" duration="114000" />
+      <workItem from="1684042026312" duration="105000" />
+      <workItem from="1684042503153" duration="1381000" />
+      <workItem from="1684044470994" duration="27871000" />
+      <workItem from="1684115313249" duration="4001000" />
+      <workItem from="1684120705915" duration="3888000" />
+      <workItem from="1684127446638" duration="1545000" />
+      <workItem from="1684136077684" duration="2583000" />
+      <workItem from="1684138709124" duration="2058000" />
+      <workItem from="1684140819681" duration="3793000" />
+      <workItem from="1684144992079" duration="1727000" />
+      <workItem from="1684148810754" duration="693000" />
+      <workItem from="1684153434755" duration="623000" />
+      <workItem from="1684154075288" duration="189000" />
+      <workItem from="1684154284816" duration="3984000" />
+      <workItem from="1684158311307" duration="1343000" />
+      <workItem from="1684162683171" duration="23458000" />
+      <workItem from="1684227811675" duration="7448000" />
+      <workItem from="1684251400628" duration="2051000" />
+      <workItem from="1684253537655" duration="1012000" />
+      <workItem from="1684254581589" duration="3734000" />
+      <workItem from="1684318861729" duration="12672000" />
+      <workItem from="1684643314977" duration="2915000" />
+      <workItem from="1684660705787" duration="11373000" />
+      <workItem from="1684683137503" duration="61974000" />
+      <workItem from="1684974221659" duration="16676000" />
+      <workItem from="1685174282311" duration="47795000" />
+      <workItem from="1685438544207" duration="13976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
